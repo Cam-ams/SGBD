@@ -23,9 +23,9 @@ les cardinalité différent si Meurise ou UML
 En entreprise on ne supprime jamais les comptes utilisateur (on archives elle ne serra plus visible dans le fronte)
 ex : bool banned = true;
 
-#### Commande 
+#### Commandes 
 
-| Commande | Utilité | 
+| Commandes | Utilité | 
 |:------|:---:|
 | Select | Séléctionne  |  
 | From   | De, source |  
@@ -35,4 +35,14 @@ ex : bool banned = true;
 | ASC | orde croissant (assendant) |
 | Update | permet de modiifié dans la table article par exemple |
 | Where | condition |
-|  | | 
+|  | |
+
+VARCHAR(25) (peut aller jusqu'a 25 caractere) =! CHAR(25)(obliger de mettre 25 caractere)
+
+Le charcet souvant UTF-8 pour accepte rôles accent
+
+<img width="1917" height="1079" alt="Capture d&#39;écran 2025-12-15 115132" src="https://github.com/user-attachments/assets/13ce46da-6598-476a-a90c-91618b0ad140" />
+
+<img width="1911" height="1079" alt="Capture d&#39;écran 2025-12-15 115238" src="https://github.com/user-attachments/assets/9d070914-0c61-42dc-9d59-72aed0a6b90c" />
+
+
