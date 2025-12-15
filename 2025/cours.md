@@ -20,4 +20,19 @@ MLD : Rajoute des détails relations (table d'association)
 MPD : Tout les détails, Int 
 
 les cardinalité différent si Meurise ou UML 
+En entreprise on ne supprime jamais les comptes utilisateur (on archives elle ne serra plus visible dans le fronte)
+ex : bool banned = true;
 
+#### Commande 
+
+| Commande | Utilité | 
+|:------|:---:|
+| Select | Séléctionne  |  
+| From   | De, source |  
+| Oder By |  |
+| Desc | |
+| Between | |
+| ASC | orde croissant (assendant) |
+| Update | permet de modiifié dans la table article par exemple |
+| Where | condition |
+|  | | 
