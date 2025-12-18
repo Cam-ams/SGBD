@@ -45,4 +45,13 @@ Le charcet souvant UTF-8 pour accepte rôles accent
 
 <img width="1911" height="1079" alt="Capture d&#39;écran 2025-12-15 115238" src="https://github.com/user-attachments/assets/9d070914-0c61-42dc-9d59-72aed0a6b90c" />
 
+----
+
+## TP 
+
+<img width="1043" height="369" alt="Capture d&#39;écran 2025-12-16 113658" src="https://github.com/user-attachments/assets/bded68e5-e9a4-408d-b4a9-e0d3cc8a92e0" />
+
+
+#### Correction
+
 
